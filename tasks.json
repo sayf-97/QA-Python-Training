@@ -1,0 +1,10 @@
+[
+    {
+        "description": "Ride bicycle",
+        "status": "completed"
+    },
+    {
+        "description": "Learn Python",
+        "status": "pending"
+    }
+]
