@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Buy Groceries",
+        "status": "pending",
+        "priority": "high",
+        "due_date": "2026-10-23"
+    },
+    {
+        "description": "Play Games",
+        "status": "pending",
+        "priority": "low",
+        "due_date": null
+    }
+]
